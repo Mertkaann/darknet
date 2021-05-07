@@ -1,5 +1,5 @@
 classes = 1
 train  = /home/kaan/Desktop/SavasanIha/yolo/darknet/data/UAV/train.only.txt
 valid  = /home/kaan/Desktop/SavasanIha/yolo/darknet/data/UAV/test.txt
-names = ./darknet/data/uav.names
+names = ./data/uav.names
 backup = backup
